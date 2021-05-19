@@ -2,3 +2,5 @@ apple
 ball
 cat 
 dog
+elephant
+frog
